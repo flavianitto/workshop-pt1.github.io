@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2022-08-23T16:19:34Z",
+  "id": "pt-01-design-api",
+  "duration": 0,
+  "title": "Design",
+  "authors": "Andre Strenger",
+  "summary": "Vamos assumir o papel de designer de API e explorar como criar uma API usando uma abordagem Design First com a metodologia de conectividade baseada em APIs da MuleSoft. O objetivo de nossa abordagem de Design First é ser capaz de projetar APIs que sejam fáceis de usar para o público-alvo pretendido.",
+  "source": "1Mq-ppKfFwFFR_aDNLf5Oha_7OL1D1N1HEuosuyXmimg",
+  "theme": "web",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "web"
+  ],
+  "tags": [
+    "web"
+  ],
+  "feedback": "https://github.com/fcatae",
+  "url": "pt-01-design-api"
+}
